@@ -78,7 +78,7 @@ function init(){
     /*СОЗДАЕМ ЭКЗЕМПЛЯР КЛАССА Placemark*/
     var myPlacemark = new ymaps.Placemark([55.1608186, 82.9880505], { 
         iconContent: '', //текст на иконке
-        balloonContent: 'ТСН Восход Пашинский, 174' /*текст появляющийся после нажатия*/
+        balloonContent: 'ТСН Восход Пашинский, 174 (закрыто)' /*текст появляющийся после нажатия*/
         
     }, {
         preset: 'islands#blueIcon'//тип иконки
