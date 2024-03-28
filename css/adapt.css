@@ -153,6 +153,9 @@
         height: 39vh;
     }
     /* menu-haburger */
+    nav {
+        visibility: visible;
+    }
     .menu-hamburger {
         width: 7vw;
         height: 7vw;
