@@ -1,5 +1,5 @@
 
-@media(max-width:400px) and (min-width: 1px) {
+@media(max-width:425px) and (min-width: 1px) {
     /* 1 */
     .landing {
         height: 80vh;
@@ -174,5 +174,5 @@
     }
     
     
-    }
+}
     
